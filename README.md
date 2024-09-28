@@ -27,8 +27,8 @@ The Histogram of gray scale image and color image is shown.
 ## Program:
 ```
 
-# Developed By: VINUSH.CV
-# Register Number: 212222230176
+# Developed By: SACHIN.C
+# Register Number: 212222230125
 ```
 ``` python
 import cv2
@@ -79,7 +79,7 @@ plt.show()
 
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/61171608-29b5-4e8c-9b4e-56e1feac3a8f)
+![image](https://github.com/user-attachments/assets/7049417d-fca2-40c6-a16f-9e9248fef6b8)
 
 
 
